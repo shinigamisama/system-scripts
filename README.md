@@ -7,7 +7,7 @@ A collection of automated setup scripts for development environments across macO
 Install all tools with one command:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/matteomelillo/system-scripts/main/quick-install.sh | bash
+curl -sSL https://raw.githubusercontent.com/shinigamisama/system-scripts/main/quick-install.sh | bash
 ```
 
 ## 📦 What Gets Installed
@@ -25,7 +25,7 @@ curl -sSL https://raw.githubusercontent.com/matteomelillo/system-scripts/main/qu
 
 ### QEMU Guest Agent
 ```bash
-curl -sSL https://raw.githubusercontent.com/matteomelillo/system-scripts/main/installQemuGuestAgent.sh | bash
+curl -sSL https://raw.githubusercontent.com/shinigamisama/system-scripts/main/installQemuGuestAgent.sh | bash
 ```
 
 **Features:**
@@ -36,7 +36,7 @@ curl -sSL https://raw.githubusercontent.com/matteomelillo/system-scripts/main/in
 
 ### Zoxide Installation
 ```bash
-curl -sSL https://raw.githubusercontent.com/matteomelillo/system-scripts/main/installZoxide.sh | bash
+curl -sSL https://raw.githubusercontent.com/shinigamisama/system-scripts/main/installZoxide.sh | bash
 ```
 
 **Features:**
@@ -47,7 +47,7 @@ curl -sSL https://raw.githubusercontent.com/matteomelillo/system-scripts/main/in
 
 ### Starship Prompt
 ```bash
-curl -sSL https://raw.githubusercontent.com/matteomelillo/system-scripts/main/installStarship.sh | bash
+curl -sSL https://raw.githubusercontent.com/shinigamisama/system-scripts/main/installStarship.sh | bash
 ```
 
 **Features:**
@@ -58,7 +58,7 @@ curl -sSL https://raw.githubusercontent.com/matteomelillo/system-scripts/main/in
 
 ### LazyVim
 ```bash
-curl -sSL https://raw.githubusercontent.com/matteomelillo/system-scripts/main/installLazyVim.sh | bash
+curl -sSL https://raw.githubusercontent.com/shinigamisama/system-scripts/main/installLazyVim.sh | bash
 ```
 
 **Features:**
@@ -69,7 +69,7 @@ curl -sSL https://raw.githubusercontent.com/matteomelillo/system-scripts/main/in
 
 ### DNS Configuration (Ubuntu)
 ```bash
-curl -sSL https://raw.githubusercontent.com/matteomelillo/system-scripts/main/setDNSNetplan.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/shinigamisama/system-scripts/main/setDNSNetplan.sh | sudo bash
 ```
 
 **Features:**
@@ -110,7 +110,7 @@ If you prefer to run scripts individually:
 
 1. **Download script:**
    ```bash
-   curl -O https://raw.githubusercontent.com/matteomelillo/system-scripts/main/SCRIPT_NAME.sh
+   curl -O https://raw.githubusercontent.com/shinigamisama/system-scripts/main/SCRIPT_NAME.sh
    ```
 
 2. **Make executable:**

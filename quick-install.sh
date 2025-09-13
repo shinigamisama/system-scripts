@@ -21,7 +21,7 @@ CYAN='\033[0;36m'
 NC='\033[0m' # No Color
 
 # Base URL for scripts (GitHub raw)
-BASE_URL="https://raw.githubusercontent.com/matteomelillo/system-scripts/main"
+BASE_URL="https://raw.githubusercontent.com/shinigamisama/system-scripts/main"
 
 # Scripts to install (in order)
 declare -A SCRIPTS=(
