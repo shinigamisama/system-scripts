@@ -1,0 +1,25 @@
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor specific files
+.vscode/
+.idea/
+*.sublime-*
+
+# Test files
+test_*
+debug_*
